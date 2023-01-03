@@ -6,8 +6,8 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Front End e gosto muito de compartilhar meu conhecimento e aprendizado no meu canal
-    <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
+    
+    
       <img
            width="10%" 
            align="center" 
