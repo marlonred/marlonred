@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/edududuribeiro/">Marlon!</a>
+    <a href="https://www.linkedin.com/in/marlon-rodrigues-b34a77180//">Marlon!</a>
   </h1>
   
 
