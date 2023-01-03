@@ -5,11 +5,7 @@
     <a href="https://www.linkedin.com/in/edududuribeiro/">Marlon!</a>
   </h1>
   
- 
-  
-  <p align="center">
-    Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️
-  </p>
+
   
 </div>
 
