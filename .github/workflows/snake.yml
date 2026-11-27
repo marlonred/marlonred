@@ -1,23 +1,30 @@
-name: Generate Datas
+name: Snake neon
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule:
+    - cron: "0 */12 * * *" # a cada 12 horas
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/snake.yml"]
+
+permissions:
+  contents: write
 
 jobs:
-  build:
-    name: Jobs to update datas
+  snake:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
+      - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: marlonred
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-neon-dark.svg?palette=github-dark&color_snake=#ff00e5&color_dots=#161b22,#2a0a4a,#5b10a8,#7f00ff,#00f0ff
+            dist/snake-neon-light.svg?color_snake=#7f00ff&color_dots=#ebedf0,#d9c2ff,#b383ff,#7f00ff,#00b8c4
+            dist/github-contribution-grid-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
