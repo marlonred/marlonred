@@ -37,9 +37,9 @@ missão:    transformar ideias em apps que eu mesmo uso
 
 | Projeto | O que é | Stack |
 | :--- | :--- | :---: |
-| 🌌 **[star-rail-meta](https://github.com/marlonred/star-rail-meta)** | Tier list, builds e times do meta de Honkai: Star Rail, atualizados diariamente | ![HTML](https://img.shields.io/badge/HTML-0d0221?style=flat-square&logo=html5&logoColor=00f0ff) |
-| ⛅ **[weatherprev](https://github.com/marlonred/weatherprev)** | Aplicação de previsão do tempo | ![HTML](https://img.shields.io/badge/HTML-0d0221?style=flat-square&logo=html5&logoColor=00f0ff) |
-| 🪪 **[cpfgen](https://github.com/marlonred/cpfgen)** | Gerador de CPF para testes | ![JS](https://img.shields.io/badge/JS-0d0221?style=flat-square&logo=javascript&logoColor=00f0ff) |
+| 🌌 **[star-rail-meta](https://github.com/marlonred/star-rail-meta)** | Tier list, builds e times do meta de Honkai: Star Rail, atualizados diariamente | <img src="./assets/html.svg" height="22" alt="HTML" /> |
+| ⛅ **[weatherprev](https://github.com/marlonred/weatherprev)** | Aplicação de previsão do tempo | <img src="./assets/html.svg" height="22" alt="HTML" /> |
+| 🪪 **[cpfgen](https://github.com/marlonred/cpfgen)** | Gerador de CPF para testes | <img src="./assets/js.svg" height="22" alt="JS" /> |
 
 </div>
 
@@ -60,9 +60,9 @@ missão:    transformar ideias em apps que eu mesmo uso
 
 <div align="center">
 
-<a href="https://www.instagram.com/marlonred.rar/"><img src="https://img.shields.io/badge/Instagram-0d0221?style=for-the-badge&logo=instagram&logoColor=ff00e5" alt="Instagram" /></a>
-<a href="https://www.linkedin.com/in/marlon-rodrigues-b34a77180/"><img src="https://img.shields.io/badge/LinkedIn-0d0221?style=for-the-badge&logo=linkedin&logoColor=00f0ff" alt="LinkedIn" /></a>
-<a href="mailto:marlon.matheus@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d0221?style=for-the-badge&logo=gmail&logoColor=7f00ff" alt="Gmail" /></a>
+<a href="https://www.instagram.com/marlonred.rar/"><img src="./assets/instagram.svg" alt="Instagram" /></a>
+<a href="https://www.linkedin.com/in/marlon-rodrigues-b34a77180/"><img src="./assets/linkedin.svg" alt="LinkedIn" /></a>
+<a href="mailto:marlon.matheus@gmail.com"><img src="./assets/gmail.svg" alt="Gmail" /></a>
 
 </div>
 
